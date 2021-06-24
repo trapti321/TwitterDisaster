@@ -13,3 +13,9 @@ Natural Language Processing with Disaster Tweets Predict which Tweets are about 
 6. Number of upper case words
 7. Number of title case words
 8. Average length of the words
+
+### Visit https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-qiqc
+### Visit https://www.kaggle.com/christofhenkel/how-to-preprocessing-when-using-embeddings
+### Visit https://www.kaggle.com/theoviel/improve-your-score-with-some-text-preprocessing
+### Visit https://www.kaggle.com/szelee/a-real-disaster-leaked-label
+### Visit https://www.kaggle.com/xhlulu/disaster-nlp-keras-bert-using-tfhub
